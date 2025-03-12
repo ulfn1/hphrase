@@ -1,4 +1,4 @@
-How to run the calulations
+How to run the calculations
 
 1. Install anaconda3
 2. Create folder 'hphrase' and go to the created folder
